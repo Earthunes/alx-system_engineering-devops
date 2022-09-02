@@ -1,3 +1,1 @@
-Display current directory contents, including hidden files in long forma
-
-t
+Display current directory contents, user ID, hidden files in long formart
